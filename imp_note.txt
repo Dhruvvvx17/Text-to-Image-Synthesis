@@ -1,4 +1,3 @@
-Evaluator,
 
 Please download the captions zip file from the following link:
 
