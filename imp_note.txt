@@ -1,0 +1,38 @@
+Evaluator,
+
+Please download the captions zip file from the following link:
+
+https://drive.google.com/file/d/0B0ywwgffWnLLcms2WWJQRFNSWXM/view
+
+and paste this file under the main project "Data" directory.
+
+
+
+(After download is complete the file structure will look something like this)
+
+FILE STRUCTURE
+    |
+    |
+    |- Data
+    |   |
+    |   | - flowers
+    |   |     | - jpg
+    |   |     | - text_c10
+    |   |      
+    |   | - Model
+    |   | - Samples
+    |   | - val_samples
+    |   | - sample_captions.txt
+    |
+    | - Utils
+    |   |
+    |   | - ops.py
+    |   | - image_processing.py
+    |
+    | - download_datasets.py
+    | - data_loader.py
+    | - generate_images.py
+    | - generate_thought_vectors.py
+    | - model.py
+    | - train.py
+    | - skipthoughts.py
