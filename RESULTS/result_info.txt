@@ -1,0 +1,4 @@
+The image names represents the number of iterations after which the result was observed.
+The results have been obtained over 10 batches each with 96 epochs and a batch size of 64.
+
+The output image size are 64 x 64.
