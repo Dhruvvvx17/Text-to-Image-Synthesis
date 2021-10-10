@@ -2,6 +2,6 @@ h5py==2.10.0
 nltk==3.4.5
 numpy==1.16.1
 scipy==1.4.1
-tensorflow==1.4.0
+tensorflow==2.5.1
 theano==1.0.4
 pillow==7.0.0
